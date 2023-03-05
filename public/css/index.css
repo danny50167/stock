@@ -1,0 +1,26 @@
+#h1_title {
+  font-size: 10em;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+#h3_subtitle {
+  margin-top: 0;
+  font-size: 2em;
+  font-weight: 500;
+}
+
+.a {
+  padding: 1em;
+  border: 2px solid black;
+  margin-top: 0.5em;
+  display: inline-flex;
+  margin-left: 1em;
+  margin-right: 1em;
+  border-radius: 0.4em;
+  transition-duration: 300ms;
+}
+.a:hover {
+  border-radius: 0.8em;
+  background-color: aliceblue;
+}

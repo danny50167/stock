@@ -1,0 +1,26 @@
+#div_form {
+  padding: 5em;
+}
+
+fieldset {
+  font-size: 1em;
+  padding: 0.5em;
+  border: 0;
+}
+
+input,
+button {
+  font-size: inherit;
+  padding: 1em;
+  margin: 0.1em 0.2em;
+  border-radius: 0.7em;
+  -moz-box-sizing: content-box; /* or `border-box` */
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+  border: 2px black solid;
+  background-color: white;
+  transition-duration: 400ms;
+}
+button:hover {
+  background-color: aliceblue;
+}
