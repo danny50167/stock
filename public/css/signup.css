@@ -21,6 +21,8 @@ button {
   background-color: white;
   transition-duration: 400ms;
 }
-button:hover {
-  background-color: aliceblue;
+
+.UI {
+  /* width: max(18.1%, ); */
+  width: 16.8em;
 }
